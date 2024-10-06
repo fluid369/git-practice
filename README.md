@@ -3,7 +3,5 @@
 
 ローカルリポで変更  
 
-conflict ブランチで変更(conflict発声)
-
->>>>>>> conflict
+github上で更新
 

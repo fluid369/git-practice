@@ -3,5 +3,5 @@
 
 ローカルリポで変更  
 
-github上で更新
+conflict-remote上で更新(conflict発生)
 
